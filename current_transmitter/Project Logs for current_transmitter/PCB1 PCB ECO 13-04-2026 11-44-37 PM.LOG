@@ -1,0 +1,9 @@
+Added Component: Designator=SW_RST(3x4x2.5_TACTILE_BUTTON)
+Added Pin To Net: NetName=RESET Pin=SW_RST-1
+Added Pin To Net: NetName=RESET Pin=SW_RST-2
+Added Pin To Net: NetName=GND Pin=SW_RST-3
+Added Pin To Net: NetName=GND Pin=SW_RST-4
+Added Member To Class: ClassName=Main Member=Component C1 100nF
+Added Member To Class: ClassName=Main Member=Component C2 22pF
+Added Member To Class: ClassName=Main Member=Component C3 100nF
+Added Member To Class: ClassName=Main Member=Component SW_RST 3x4x2.5_TACTILE_BUTTON
