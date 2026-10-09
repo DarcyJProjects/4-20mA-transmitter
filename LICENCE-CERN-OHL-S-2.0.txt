@@ -1,4 +1,4 @@
-Project: Industrial Automation Embedded Controller
+Project: 4-20mA-transmitter
 Copyright © 2026 Darcy Johnson
 Licensed under CERN-OHL-S v2
 
