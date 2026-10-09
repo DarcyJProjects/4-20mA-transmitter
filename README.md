@@ -2,7 +2,7 @@
 
 An analogue converter board designed to simulate industrial sensors for bench testing and system bring-up. 
 
-I built this primarily as a hardware test module to verify the isolated analogue front-end of my embedded industrial controller project. It takes a standard 0-3.3 V signal (e.g., from a standard consumer sensor) and translates it into a 4-20 mA current loop.
+I built this primarily as a hardware test module to verify the isolated analogue front-end of my [embedded controller project](https://github.com/DarcyJProjects/embedded-controller). It takes a standard 0-3.3 V signal (e.g., from a standard consumer sensor) and translates it into a 4-20 mA current loop.
 
 **You can read the short write-up on my website:**  
 [Designing a 4-20mA Transmitter - darcyjprojects.xyz](https://darcyjprojects.xyz/index.php/2026/05/25/designing-a-4-20-ma-transmitter/)
